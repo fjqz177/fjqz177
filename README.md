@@ -1,3 +1,6 @@
+# [fjqz177's Blog](https://fjqz177.github.io/)
+<div align="center">
+
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=fjqz177;fjqz177.github.io" alt="Typing SVG" />
 </p>
@@ -8,12 +11,11 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjqz177&show_icons=true)](https://github.com/fjqz177/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjqz177)](https://github.com/fjqz177/github-readme-stats)
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
 </div>
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=fjqz177&theme=minimal" />
-</div>
+
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/assets/github-contribution-grid-snake.svg)
