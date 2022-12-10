@@ -1,5 +1,6 @@
-# [fjqz177's Blog](https://fjqz177.github.io/)
 <div align="center">
+
+# [fjqz177's Blog](https://fjqz177.github.io/)
 
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=fjqz177;fjqz177.github.io" alt="Typing SVG" />
