@@ -2,8 +2,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=420&height=70&lines=fjqz177.github.io" alt="Typing SVG" /></a>
 </p>
 
-
-
 <div align=center >
     <a href=https://fjqz177.github.io/><font size=10><b>fjqz177's Blog</b></font></a>
 </div>
