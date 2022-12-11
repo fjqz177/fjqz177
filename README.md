@@ -17,8 +17,15 @@
 </p>
 
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/assets/github-contribution-grid-snake.svg)
-## 🛠️Languages and Tools:
+## 📈Statistics
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=fjqz177&show_icons=true" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqz177" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177" />
+</div>
 
+## 🛠️Languages and Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
@@ -29,20 +36,12 @@
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 
 ## 📧Contact me:
-
 - Personal website: [![website](https://img.shields.io/badge/fjqz177.github.io-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://fjqz177.github.io)
 - Twitter: [![Twitter](https://img.shields.io/badge/@fjqz177-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fjqz177) 
 - Weibo: [![Weibo](https://img.shields.io/badge/@fjqz177-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/5862441076)
 - Email: [![Email](https://img.shields.io/badge/fjqz177@139.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fjqz177@139.com)
 
-## 📈Statistics
 
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=fjqz177&show_icons=true" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqz177" />
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177" />
-</div>
 
 ## My program
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjqz177&repo=Python-Program)](https://github.com/fjqz177/Python-Program)
