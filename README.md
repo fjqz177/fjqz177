@@ -1,8 +1,12 @@
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=fjqz177;fjqz177.github.io" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=100&size=45&duration=4000&pause=4000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=420&height=70&lines=fjqz177.github.io" alt="Typing SVG" /></a>
 </p>
 
-# [fjqz177's Blog](https://fjqz177.github.io/)
+
+
+<div align=center >
+    <a href=https://fjqz177.github.io/><font size=10><b>fjqz177's Blog</b></font></a>
+</div>
 
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/fjqz177"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfjqz177&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
@@ -12,6 +16,7 @@
 <a title="coolapk" target="_blank" href="https://www.coolapk.com/u/3880429"><img src="https://img.shields.io/badge/dynamic/json?color=30343b&labelColor=17a15e&label=Coolapk&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dcoolapk%26queryKey%3D3880429&logo=data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiPjxkZWZzPjxzdHlsZS8+PC9kZWZzPjxwYXRoIGQ9Ik0xMjcuODkzIDQyNi42NjdjMjkuOTItNjYuOTg3IDk0LjUwNy0xMTYuNjk0IDE2Ni40LTEzMC4zNDcgNTUuNzg3LTkuNiAxMTIuOTYgNS4wNjcgMTYxLjkyIDMxLjk0N0M0OTcuNzYgMzQ5LjQ0IDUzNC40IDM3OC44OCA1NjcuOTQ3IDQxMS4wNGMtMTYuMTYgMTguNC0zOS4wOTQgMjguODUzLTU3LjQ5NCA0NC43NDctNDYuMTMzLTM4Ljg4LTk2LjY0LTc3LjcwNy0xNTcuOTczLTg3LjA5NC03OC45MzMtMTMuMTczLTE1OC41NiA0OS4yMjctMTcwLjUwNyAxMjcuMTQ3LTguNjkzIDQ1LjkyIDEwLjEzNCA5NC42NjcgNDUuMTc0IDEyNC45MDcgMzkuNjggMzQuOTg2IDk3LjIyNiA0NC41ODYgMTQ3LjYyNiAzMS4yNTMgNTcuNi0xMy45MiAxMDEuOTc0LTU3LjA2NyAxMzYuODU0LTEwMi43NzMgNTQuMDgtNzIuMTA3IDk5LjItMTUwLjQgMTQ3Ljg0LTIyNi4xMzQgMTMuOTItMTkuMTQ2IDQ3LjQxMy0xNy4yMjYgNTguNzIgMy44NCA2My42MjYgMTA5LjAxNCAxMjYuMDggMjE4LjcyIDE4OS42IDMyNy43ODcgNy41NzMgMTUuMDkzIDQuNDI2IDM1Ljc4Ny05LjYgNDYuMTMzLTEzLjA2NyAxMC42MTQtMzMuMzM0IDEwLjI0LTQ2LjEzNC0uNjkzYTk3MDY2LjU1OCA5NzA2Ni41NTggMCAwMS0yMjYuMTg2LTE2Mi43MmMxOC44OC0xNS4wNCAzOC40LTI5LjMzMyA1Ny45NzMtNDMuNDY3IDIzLjczMyAxMi45MDcgNDMuNzg3IDMzLjE3NCA2OS42IDQxLjY1NC0yMC4zNzMtMzkuNTc0LTQzLjYyNy03Ny43MDctNjYuMzQ3LTExNS45NDctNDIuNjY2IDU5LjE0Ny03Ny4wNjYgMTI0LjIxMy0xMjMuMTQ2IDE4MS4wNjdDNTE2IDY2My40NjcgNDQ4LjggNzE2Ljk2IDM2OC42NCA3MjguNDhjLTM4Ljg4IDMuNDEzLTc5LjMwNyA0LjIxMy0xMTYuMzczLTkuOTczLTUzLjQ5NC0xOS4xNDctMTAwLjMyLTU4LjcyLTEyNC41ODctMTEwLjU2LTI4LjIxMy01Ni4xMDctMjYuNzczLTEyNS4wMTQuMjEzLTE4MS4yOHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&longCache=true" ></a>
 </p>
 
+![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/assets/github-contribution-grid-snake.svg)
 ## 🛠️Languages and Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -29,8 +34,6 @@
 - Twitter: [![Twitter](https://img.shields.io/badge/@fjqz177-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fjqz177) 
 - Weibo: [![Weibo](https://img.shields.io/badge/@fjqz177-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/5862441076)
 - Email: [![Email](https://img.shields.io/badge/fjqz177@139.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fjqz177@139.com)
-
-![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/assets/github-contribution-grid-snake.svg)
 
 ## 📈Statistics
 
