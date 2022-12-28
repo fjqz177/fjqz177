@@ -11,10 +11,17 @@
 </p>
 
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/assets/github-contribution-grid-snake.svg)
+
 ## 📈Statistics
-<div align="center">
+
+<div>
     <img  src="https://github-readme-stats.vercel.app/api?username=fjqz177&show_icons=true" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqz177" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
     <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177" />
 </div>
@@ -35,7 +42,6 @@
 - Weibo: [![Weibo](https://img.shields.io/badge/@fjqz177-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/5862441076)
 - Email: [![Email](https://img.shields.io/badge/fjqz177@139.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fjqz177@139.com)
 
-
-
 ## My program
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjqz177&repo=Python-Program)](https://github.com/fjqz177/Python-Program)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjqz177&repo=HexoBlog)](https://github.com/fjqz177/HexoBlog)
