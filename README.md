@@ -16,7 +16,7 @@
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+<img height="170px" src="https://githubreadmestats-jade.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://githubreadmestats-jade.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
@@ -104,7 +104,7 @@
 - Email: [![Email](https://img.shields.io/badge/fjqz177@139.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fjqz177@139.com)
 
 ## My program
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjqz177&repo=Python-Program)](https://github.com/fjqz177/Python-Program)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjqz177&repo=Cpp-Program)](https://github.com/fjqz177/Cpp-Program)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjqz177&repo=Cgame)](https://github.com/fjqz177/Cgame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjqz177&repo=HexoBlog)](https://github.com/fjqz177/HexoBlog)
+[![Readme Card](https://githubreadmestats-jade.vercel.app/api/pin/?username=fjqz177&repo=Python-Program)](https://github.com/fjqz177/Python-Program)
+[![Readme Card](https://githubreadmestats-jade.vercel.app/api/pin/?username=fjqz177&repo=Cpp-Program)](https://github.com/fjqz177/Cpp-Program)
+[![Readme Card](https://githubreadmestats-jade.vercel.app/api/pin/?username=fjqz177&repo=Cgame)](https://github.com/fjqz177/Cgame)
+[![Readme Card](https://githubreadmestats-jade.vercel.app/api/pin/?username=fjqz177&repo=HexoBlog)](https://github.com/fjqz177/HexoBlog)
