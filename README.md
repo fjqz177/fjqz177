@@ -20,7 +20,7 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
