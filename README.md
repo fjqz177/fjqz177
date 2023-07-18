@@ -16,7 +16,7 @@
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://githubreadmestats-jade.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://githubreadmestats-jade.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
