@@ -19,6 +19,9 @@
 <!--   profile-night-rainbow.svg -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+
 <div align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
