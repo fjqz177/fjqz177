@@ -27,7 +27,7 @@
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177&row=1" />
 </div>
 
 ## 🛠️Languages:
